@@ -1,0 +1,10 @@
+C:\Users\rita\source\repos\bin_calculator\bin\Debug\bin_calculator.exe.config
+C:\Users\rita\source\repos\bin_calculator\bin\Debug\bin_calculator.exe
+C:\Users\rita\source\repos\bin_calculator\bin\Debug\bin_calculator.pdb
+C:\Users\rita\source\repos\bin_calculator\obj\Debug\bin_calculator.csprojAssemblyReference.cache
+C:\Users\rita\source\repos\bin_calculator\obj\Debug\bin_calculator.Form1.resources
+C:\Users\rita\source\repos\bin_calculator\obj\Debug\bin_calculator.Properties.Resources.resources
+C:\Users\rita\source\repos\bin_calculator\obj\Debug\bin_calculator.csproj.GenerateResource.cache
+C:\Users\rita\source\repos\bin_calculator\obj\Debug\bin_calculator.csproj.CoreCompileInputs.cache
+C:\Users\rita\source\repos\bin_calculator\obj\Debug\bin_calculator.exe
+C:\Users\rita\source\repos\bin_calculator\obj\Debug\bin_calculator.pdb
